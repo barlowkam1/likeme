@@ -1,0 +1,153 @@
+.containera{display: flex;
+    flex-direction: column;
+    background-image: url(lusaka1.jpg);
+    width: 100%;
+    height: 75vh;
+    background-color: aquamarine;
+    background-size: cover;
+    font-family: sans-serif;
+    color: white;
+}
+.cube1{width: 100%;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+}
+.cube2{width: 100%;
+    height: 70vh;
+}
+.box1{width: 62%;}
+.box2{width: 38%;
+    display: flex;
+    flex-direction: row;
+}
+.p1a{font-size: 25px;
+    margin-left: 20PX;
+}
+.p2a{margin-left: 30px;
+    margin-top: 30px;
+}
+.p2a:hover{text-decoration: underline;}
+.p3a{
+    margin-top: 250px;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.btn1a{
+    margin-left: 30px;
+    width: 100px;
+    height: 50px;
+    margin-top: 15px;
+    color: white;
+    background-color: burlywood;
+    border: 1px solid burlywood;
+}
+.containerb{display: flex;
+flex-direction: row;background-color: gray;
+height: 40vh; width: 100%;}
+.cube3{width: 50%; background-color: white;}
+.cube4{width: 50%; background-color: white;}
+.p1b{margin-left: 30px;
+font-size: 40px;
+font-family: sans-serif;
+margin-top: 45px;
+}
+.btn1b{
+    width: 100px;
+    height: 50px;
+    background-color: burlywood;
+    margin-top: 30px;
+    border: 1px solid burlywood;
+}
+.p2b{
+    margin-left: 30px;
+    font-size: 15px;
+    margin-top: 25px;
+}
+.containerc{width: 100%;height: 170vh;
+    background-color: rgb(31, 29, 29);
+display: flex;flex-direction: row;flex-wrap: wrap;}
+.cube5{width: 50%;height: 350px;
+}
+.cube6{width: 50%;
+    height: 350px;
+}
+.cube7{width: 50%;height: 350px;}
+.cube8{width: 50%;height: 350px;}
+.cube9{width: 50%;height: 350px;}
+.cube10{width: 50%;height: 350px;}
+.pc{font-size: 16px;color: white;font-family:sans-serif;margin-left: 30px;}
+.ha{font-family: sans-serif;color: white;margin-top: 90px;margin-left: 30px;}
+.btnc{
+    width: 125px;
+    height: 50px;
+    color: white;
+    background-color: burlywood;
+    border: 1px solid burlywood;
+    margin-left: 30px;
+}
+.containerd{width: 100%;
+    height: 50vh;
+    font-family: sans-serif;
+}
+.h1d{margin-top: 170px;
+    margin-left: 70px;
+}
+.p1d{margin-left: 70px;
+}
+.containere{width: 100%;
+    height: 90vh;
+    background-image: url(lusaka5.jpg);
+}
+.containerf{
+    width: 100%;
+    height: 80vh;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    font-family: sans-serif;
+}
+.cube11{width: 100%;
+height: 80vh;
+}
+.cube12{width: 100%;
+height: 80vh;}
+.h1f{
+font-size: 50px;
+margin-top: 60px;
+}
+.h2f{margin-left: ;}
+.p3f{text-decoration: underline burlywood;color: burlywood;}
+.pf,.hf{margin-left: 40px;
+}
+input[type="text"]{width: 300px;
+height: 40px;border-radius: 4px;border: 1px solid rgb(204, 195, 195);
+margin-left: 20px;}
+input[type="text1"]{width: 300px;
+height: 40px;border-radius: 4px;border: 1px solid rgb(204, 195, 195);
+margin-left: 20px;}
+input[type="email"]{width: 630px;
+height: 40px;border-radius: 4px;
+margin-left: 20px;border: 1px solid rgb(204, 195, 195);}
+.txta1f{margin-left: 20px;border-radius: 4px;
+    border: 1px solid rgb(204, 195, 195);}
+.btn1f{margin-left: 20px;width: 110px;height: 55px;
+ background-color: rgb(105, 76, 37); border: 1px solid rgb(105, 76, 37);
+ border-radius: 4px;}
+ .pf2{margin-left: 20px;}
+ .p1f2{margin-top: 20px;}
+.containerg{width: 100%;
+height: 45vh;}
+.cube13{width: 100%;
+height: 40vh;
+display: flex;
+flex-direction: row;
+background-color: rgb(233, 230, 230);}
+.box3{width: 50%;height: 40vh;}
+.box4{width: 20%;height: 40vh;}
+.box5{width:30%;height: 40vh;}
+.pg{text-decoration: underline;color: burlywood;margin:0%;margin-left: 60px}
+.hg{margin-top: 40px; margin-left: 60px;}
+address{margin-left: 60px;}
+.p1g{margin-left: 60px;}
+.span1g{text-decoration: underline;color: burlywood;}
